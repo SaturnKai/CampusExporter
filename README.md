@@ -1,3 +1,9 @@
+# Update (September 2025)
+
+This repository has been archived as a no longer have access to Infinite Campus to update it.
+
+## Campus Exporter (Original)
+
 Infinite Campus Inbox Exporter is a program I wrote in C# that allows you to export your Infinite Campus inbox into a backup folder.
 This tool can be used for archiving your inbox as a backup.
 
